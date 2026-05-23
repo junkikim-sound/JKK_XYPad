@@ -20,7 +20,7 @@
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Contact: junkikim.sound@gmail.com\sa180\par}
 {\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u9881 ?\u65039 ? 1. Installation\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 ReaImGui must be installed to use JKK_Visualizer.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaImGui must be installed to use JKK_XYPad.\par}
 {\pard \ql \f0 \sa180 \li720 \fi0 ReaImGui is an essential library that allows for modern user interfaces within REAPER. Since this script's UI is entirely built on ReaImGui, it is a required component.\par}
 {\pard \ql \f0 \sa180 \li360 \fi-360 1.\tx360\tab {\b Install {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
 ReaPack
@@ -50,7 +50,7 @@ the ReaPack websit
 {\pard \ql \f0 \sa180 \li720 \fi-360 3.\tx360\tab Enter the following URL and click OK:\par}
 {\pard \ql \f0 \sa180 \li1440 \fi0 {\f1 https://github.com/junkikim-sound/JKK_XYPad/raw/master/index.xml}\par}
 {\pard \ql \f0 \sa180 \li720 \fi-360 4.\tx360\tab Find {\b JKK_XYPad} in the package list, double-click to open details, and click {\b Install all}. \par}
-{\pard \ql \f0 \sa180 \li720 \fi-360 5.\tx360\tab You can now find and run JKK_XYPad and JKK_Visualizer Editor in your Actions. \sa180\sa180\par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 5.\tx360\tab You can now find and run JKK_XYPad in your Actions. \sa180\sa180\par}
 {\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357 ?\u56960 ? 2. Introduction\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Key Features\par}
