@@ -1,54 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+<index version="1" name="ReaPack Repository Template" commit="1ae767ab295d81ccffed3f383a5271e6ab0bd3a7">
+  <category name="JKK_XYPad">
+    <reapack name="JKK_XYPad.lua" type="script">
+      <version name="1.0.0" author="Junki Kim" time="2026-05-23T04:18:32Z">
+        <source main="main">https://github.com/junkikim-sound/JKK_XYPad/raw/1ae767ab295d81ccffed3f383a5271e6ab0bd3a7/JKK_XYPad/JKK_XYPad.lua</source>
+        <source file="JKK_Theme.lua">https://github.com/junkikim-sound/JKK_XYPad/raw/1ae767ab295d81ccffed3f383a5271e6ab0bd3a7/JKK_XYPad/JKK_Theme.lua</source>
       </version>
     </reapack>
   </category>
   <metadata>
-    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository Template\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
-reapack-index
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 JKK_XYPad\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Effortless macro control for REAPER sound designers.}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \u51200 ?\u45716 ? \u44172 ?\u51076 ? \u49324 ?\u50868 ?\u46300 ? \u46356 ?\u51088 ?\u51060 ?\u45320 ? \u44608 ?\u51456 ?\u44592 ?(Junki Kim)\u51077 ?\u45768 ?\u45796 ?. \u51060 ? \u49828 ?\u53356 ?\u47549 ?\u53944 ?\u45716 ? REAPER \u51204 ?\u50857 ? \u47588 ?\u53356 ?\u47196 ? \u47588 ?\u54609 ? XY \u54056 ?\u46300 ? \u53812 ?\u51077 ?\u45768 ?\u45796 ?. \u51200 ?\u45716 ? \u51204 ?\u47928 ? \u54532 ?\u47196 ?\u44536 ?\u47000 ?\u47672 ?\u44032 ? \u50500 ?\u45768 ?\u44592 ? \u46412 ?\u47928 ?\u50640 ? \u50724 ?\u47448 ?\u50752 ? \u48260 ?\u44536 ?\u51032 ? \u49688 ?\u51221 ?\u50640 ? \u54869 ?\u49888 ?\u51012 ? \u46300 ?\u47540 ? \u49692 ? \u50630 ?\u49845 ?\u45768 ?\u45796 ?... \u44536 ?\u47000 ?\u46020 ? \u54841 ?\u50668 ? \u44060 ?\u49440 ?\u49324 ?\u54637 ?\u51060 ? \u51080 ?\u45796 ?\u47732 ? \u50616 ?\u51228 ?\u46304 ?\u51648 ? \u51200 ?\u50640 ?\u44172 ? \u47700 ?\u51068 ?\u51012 ? \u48372 ?\u45236 ?\u51452 ?\u49464 ?\u50836 ?!\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 I am {\b Junki Kim}, a game sound designer. JKK_XYPad is a dynamic, intuitive XY pad script designed for REAPER users and sound designers. It lets you link multiple macros to the X and Y axes, allowing you to control and blend parameters simultaneously with fluid, organic mouse movements. As I am not a professional programmer, I may not be perfect at fixing every error or bug, but I am always open to feedback! If you have any suggestions or improvements, please feel free to email me.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Contact: junkikim.sound@gmail.com\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u9881 ?\u65039 ? 1. Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaImGui must be installed to use JKK_Visualizer.\par}
+{\pard \ql \f0 \sa180 \li720 \fi0 ReaImGui is an essential library that allows for modern user interfaces within REAPER. Since this script's UI is entirely built on ReaImGui, it is a required component.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 1.\tx360\tab {\b Install {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
+ReaPack
 }}}
- running from GitHub Actions.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the name of the repository in {\field{\*\fldinst{HYPERLINK "/index.xml"}}{\fldrslt{\ul
-index.xml
+} The easiest and safest way to install ReaImGui is through {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
+{\b ReaPack}
 }}}
- when using this template. This will be the name shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \f1 <index version="1" name="Name of your repository here">\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the contents of this file ({\field{\*\fldinst{HYPERLINK "/README.md"}}{\fldrslt{\ul
-README.md
+. Please refer to {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
+the ReaPack websit
 }}}
-). This will be the text shown when using ReaPack's "About this repository" feature.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index looks for package files in subfolders. The folder tree represents the package categories shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
-Packaging Documentation
+ for the installation guide. Once installed, you will see an {\b Extensions \u8594 ? ReaPack} menu in REAPER's top menu bar.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 2.\tx360\tab {\b Install ReaImGui}\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 1.\tx360\tab Navigate to {\b Extensions \u8594 ? ReaPack \u8594 ? Browse Packages}.\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 2.\tx360\tab Search for {\f1 ReaImGui}. (If it doesn't appear, follow the guide at {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reaimgui"}}{\fldrslt{\ul
+{\b this site}
 }}}
- on reapack-index's wiki.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
-https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
-}}}
-.\par}
+)\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 3.\tx360\tab Right-click the {\b ReaImGui / Extensions} package and select {\b Install}.\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 4.\tx360\tab Click {\b Apply} in the bottom right corner.\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 5.\tx360\tab Restart REAPER after the installation is complete.\sa180\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 3.\tx360\tab Verify ReaImGui Installation\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 1.\tx360\tab Open REAPER\u8217's Action List (Shortcut: {\f1 ?}).\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 2.\tx360\tab Search for {\f1 ImGui}. If you see a script named {\b ReaImGui: Demo.lua}, the installation was successful.\sa180\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 4.\tx360\tab Import JKK_XYPad Repository\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 1.\tx360\tab Go to Extensions \u8594 ? ReaPack \u8594 ? Manage repositories.\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 2.\tx360\tab Select Import/export... \u8594 ? Import repositories.\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 3.\tx360\tab Enter the following URL and click OK:\par}
+{\pard \ql \f0 \sa180 \li1440 \fi0 {\f1 https://github.com/junkikim-sound/JKK_XYPad/raw/master/index.xml}\par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 4.\tx360\tab Find {\b JKK_XYPad} in the package list, right-click to {\b install}, and click {\b Apply}. \par}
+{\pard \ql \f0 \sa0 \li720 \fi-360 5.\tx360\tab You can now find and run JKK_XYPad and JKK_Visualizer Editor in your Actions. \sa180\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357 ?\u56960 ? 2. Introduction\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\cf1 [image: https://github.com/user-attachments/assets/908ef485-3651-493e-9ec7-62b69f6dda90]\cf0} JKK_XYPad is a dynamic, intuitive XY pad script designed for REAPER users and sound designers. It lets you link multiple macros to the X and Y axes, allowing you to control and blend parameters simultaneously with fluid, organic mouse movements.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Key Features\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Flexible Macro Mapping: Assign any parameter. such as volume, panning, or effect intensity\u8212-to the X and Y axes.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Lag & Tracking Control: Adjust how tightly or loosely the "yellow dot" trails behind your mouse pointer. Perfect for creating smooth control.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Orbit Mode: Make the yellow dot rotate automatically. You can customize the size, speed, and shape of its orbit to generate unique tremolo and modulation effects.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Adjustable Peak Positions: Change where the maximum value of each axis is located. (e.g., Maximum values in the center, minimum values on the outer edges).\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Technical Details\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Language: Lua\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Library: REAPER v7.0+ / Dear ImGui\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Optimization: Optimized for low CPU usage even at a smooth 60FPS\sa180\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357 ?\u56529 ? 3. Update Log\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 v1.0.0 (May 23, 2026): Initial Update\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55356 ?\u57098 ? About the Author\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Junki Kim Game Sound Designer Specializing in game audio implementation\par}
 }
 ]]></description>
   </metadata>
