@@ -45,20 +45,19 @@ the ReaPack websit
 {\pard \ql \f0 \sa0 \li720 \fi-360 1.\tx360\tab Open REAPER\u8217's Action List (Shortcut: {\f1 ?}).\par}
 {\pard \ql \f0 \sa0 \li720 \fi-360 2.\tx360\tab Search for {\f1 ImGui}. If you see a script named {\b ReaImGui: Demo.lua}, the installation was successful.\sa180\par}
 {\pard \ql \f0 \sa180 \li360 \fi-360 4.\tx360\tab Import JKK_XYPad Repository\par}
-{\pard \ql \f0 \sa0 \li720 \fi-360 1.\tx360\tab Go to Extensions \u8594 ? ReaPack \u8594 ? Manage repositories.\par}
-{\pard \ql \f0 \sa0 \li720 \fi-360 2.\tx360\tab Select Import/export... \u8594 ? Import repositories.\par}
-{\pard \ql \f0 \sa0 \li720 \fi-360 3.\tx360\tab Enter the following URL and click OK:\par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 1.\tx360\tab Go to Extensions \u8594 ? ReaPack \u8594 ? Manage repositories.\par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 2.\tx360\tab Select Import/export... \u8594 ? Import repositories.\par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 3.\tx360\tab Enter the following URL and click OK:\par}
 {\pard \ql \f0 \sa180 \li1440 \fi0 {\f1 https://github.com/junkikim-sound/JKK_XYPad/raw/master/index.xml}\par}
-{\pard \ql \f0 \sa0 \li720 \fi-360 4.\tx360\tab Find {\b JKK_XYPad} in the package list, right-click to {\b install}, and click {\b Apply}. \par}
-{\pard \ql \f0 \sa0 \li720 \fi-360 5.\tx360\tab You can now find and run JKK_XYPad and JKK_Visualizer Editor in your Actions. \sa180\sa180\par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 4.\tx360\tab Find {\b JKK_XYPad} in the package list, double-click to open details, and click {\b Install all}. \par}
+{\pard \ql \f0 \sa180 \li720 \fi-360 5.\tx360\tab You can now find and run JKK_XYPad and JKK_Visualizer Editor in your Actions. \sa180\sa180\par}
 {\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357 ?\u56960 ? 2. Introduction\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 {\cf1 [image: https://github.com/user-attachments/assets/908ef485-3651-493e-9ec7-62b69f6dda90]\cf0} JKK_XYPad is a dynamic, intuitive XY pad script designed for REAPER users and sound designers. It lets you link multiple macros to the X and Y axes, allowing you to control and blend parameters simultaneously with fluid, organic mouse movements.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Key Features\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Flexible Macro Mapping: Assign any parameter. such as volume, panning, or effect intensity\u8212-to the X and Y axes.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Lag & Tracking Control: Adjust how tightly or loosely the "yellow dot" trails behind your mouse pointer. Perfect for creating smooth control.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Orbit Mode: Make the yellow dot rotate automatically. You can customize the size, speed, and shape of its orbit to generate unique tremolo and modulation effects.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Adjustable Peak Positions: Change where the maximum value of each axis is located. (e.g., Maximum values in the center, minimum values on the outer edges).\sa180\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Flexible Macro Mapping}: Assign any parameter. such as volume, panning, or effect intensity\u8212-to the X and Y axes.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Lag & Tracking Control}: Adjust how tightly or loosely the "yellow dot" trails behind your mouse pointer. Perfect for creating smooth control.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Orbit Mode}: Make the yellow dot rotate automatically. You can customize the size, speed, and shape of its orbit to generate unique tremolo and modulation effects.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Adjustable Peak Positions}: Change where the maximum value of each axis is located. (e.g., Maximum values in the center, minimum values on the outer edges).\sa180\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 Technical Details\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Language: Lua\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Library: REAPER v7.0+ / Dear ImGui\par}
