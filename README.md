@@ -13,7 +13,7 @@ As I am not a professional programmer, I may not be perfect at fixing every erro
 ---
 
 ## ⚙️ 1. Installation
-ReaImGui must be installed to use JKK_Visualizer.
+ReaImGui must be installed to use JKK_XYPad.
 > ReaImGui is an essential library that allows for modern user interfaces within REAPER. Since this script's UI is entirely built on ReaImGui, it is a required component.
 1. **Install [ReaPack](https://reapack.com/)**
    The easiest and safest way to install ReaImGui is through [**ReaPack**](https://reapack.com/). Please refer to [the ReaPack websit](https://reapack.com/) for the installation guide. Once installed, you will see an **Extensions → ReaPack** menu in REAPER's top menu bar.
@@ -38,7 +38,7 @@ ReaImGui must be installed to use JKK_Visualizer.
     4. Find **JKK_XYPad** in the package list, double-click to open details, and click **Install all**.
         <img width="1139" height="534" alt="image" src="https://github.com/user-attachments/assets/5aa4cfae-b75d-411f-8341-ddf165bc2749" />
 
-    5. You can now find and run JKK_XYPad and JKK_Visualizer Editor in your Actions.
+    5. You can now find and run JKK_XYPad in your Actions.
         <img width="1273" height="292" alt="image" src="https://github.com/user-attachments/assets/f01c2bf2-252c-47a1-8874-3f6cc98c019e" />
 
 
