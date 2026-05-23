@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="1ae767ab295d81ccffed3f383a5271e6ab0bd3a7">
+<index version="1" name="JKK_XYPad" commit="1ae767ab295d81ccffed3f383a5271e6ab0bd3a7">
   <category name="JKK_XYPad">
     <reapack name="JKK_XYPad.lua" type="script">
       <version name="1.0.0" author="Junki Kim" time="2026-05-23T04:18:32Z">
